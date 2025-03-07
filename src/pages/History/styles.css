@@ -346,7 +346,7 @@ body {
 }
 
 .severe-row {
-    border: 2px solid #8B0000; /* Red border for rows with severe status */
+    border: 3px solid #ee0808; /* Red border for rows with severe status */
     border-radius: 5px;
 }
 
