@@ -164,6 +164,7 @@ body {
 }
 
 .see-more-button {
+
     background: #091C98;
     color: white;
     padding: 6px 12px;
@@ -352,10 +353,11 @@ body {
 
 /* Status colors */
 .status.severe {
-    background-color: #8B0000; /* Red background for severe status */
+    background-color: #ee0808; /* Red background for severe status */
     color: white;
     padding: 6px 12px;
     border-radius: 4px;
+    margin-bottom: 18px;
 }
 
 .status.mild {
@@ -363,9 +365,11 @@ body {
     color: white;
     padding: 6px 12px;
     border-radius: 4px;
+    margin-bottom: 18px;
 }
 
 .see-more {
+    margin-bottom: 18px;
     background-color: #091C98;
     color: white;
     border: none;
